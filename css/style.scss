@@ -1008,7 +1008,7 @@ footer{
             display: flex;
             align-items: center;
     
-            div{
+            div, a{
                 margin: 0 8px;
                 color: $blackA;
                 cursor: pointer;
